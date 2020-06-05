@@ -1,5 +1,9 @@
+body {
+  background-color: #444444;
+}
+
 .size {
   position: fixed;
-  top: 0;
-  left: 0;
+  top: calc((100vh / 2) - 250px);
+  left: calc((100vw / 2) - 300px);
 }
