@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "@tensorflow-models/coco-ssd": "2.2.1",
-    "@tensorflow/tfjs": "2.8.2",
+    "@tensorflow/tfjs": "2.8.5",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-magic-dropzone": "1.0.1",
