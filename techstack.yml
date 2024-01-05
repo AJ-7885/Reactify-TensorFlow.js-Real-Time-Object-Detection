@@ -1,7 +1,8 @@
 repo_name: AJ-7885/Reactify-TensorFlow.js-Real-Time-Object-Detection
-report_id: 724f8b4ffd32ab2142239e48bdbbeff3
+report_id: 2798fdb8a7afd43053188118dcd10add
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:30:42+00:00'
+timestamp: '2024-01-05T08:48:28+00:00'
 requested_by: stack-file[bot]
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/AJ-7885/Reactify-TensorFlow.js-Real-Time-Object-Detection
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AJ-7885/Reactify-TensorFlow.js-Real-Time-Object-Detection
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AJ-7885/Reactify-TensorFlow.js-Real-Time-Object-Detection
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -57,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/AJ-7885/Reactify-TensorFlow.js-Real-Time-Object-Detection/blob/master/.github/workflows/codeql-analysis.yml
   detection_source: ".github/workflows/codeql-analysis.yml"
   last_updated_by: AJ
   last_updated_on: 2021-01-23 09:36:50.000000000 Z
@@ -68,6 +73,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/AJ-7885/Reactify-TensorFlow.js-Real-Time-Object-Detection/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: AJ
   last_updated_on: 2020-06-05 16:56:11.000000000 Z
@@ -79,6 +85,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AJ-7885/Reactify-TensorFlow.js-Real-Time-Object-Detection/blob/master/package.json
   detection_source: package.json
   last_updated_by: AJ
   last_updated_on: 2020-05-19 22:06:43.000000000 Z
@@ -88,6 +95,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/AJ-7885/Reactify-TensorFlow.js-Real-Time-Object-Detection/blob/master/public/index.html
   detection_source: public/index.html
   last_updated_by: AJ
   last_updated_on: 2020-05-19 22:06:43.000000000 Z
@@ -100,6 +108,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+  detection_source_url: https://github.com/AJ-7885/Reactify-TensorFlow.js-Real-Time-Object-Detection/blob/master/package.json
   detection_source: package.json
   last_updated_by: AJ
   last_updated_on: 2021-01-23 09:56:04.000000000 Z
